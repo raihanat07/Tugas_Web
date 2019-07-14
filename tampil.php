@@ -12,7 +12,7 @@
       website Carrental Kelompok 2 </title>
   </head>
 
-  <body     style="background-image:url(img/sky_car.jpg); background-size:cover; background-attachment: fixed;">
+  <body     style="background-image:url(sky_car.jpg); background-size:cover; background-attachment: fixed;">
 
 <div class="fixed-top" >
 <nav class="navbar navbar-light" style="background-color: #56d0e2;">
